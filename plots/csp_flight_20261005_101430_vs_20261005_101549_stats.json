@@ -1,0 +1,42 @@
+[
+  {
+    "file": "csp_flight_watchdog_20261005_101430.csv",
+    "motion_start_s": 18.127469102,
+    "captured_motion_s": 1.8710232750000024,
+    "xyz_error_rms_mm": 11.277588800798585,
+    "xyz_error_p95_mm": 21.659442197735228,
+    "xyz_error_max_mm": 25.98791048767398,
+    "axis_error_max_abs_counts": [
+      199996,
+      243074,
+      200185,
+      788
+    ],
+    "cycle_p99_ms": 1.2864514200000166,
+    "cycle_max_ms": 1.9776079999997975,
+    "wake_lateness_p99_us": 25.035779999999875,
+    "wake_lateness_max_us": 886.874,
+    "bad_wkc_cycles": 0,
+    "quick_stop_cycles": 0
+  },
+  {
+    "file": "csp_flight_watchdog_20261005_101549.csv",
+    "motion_start_s": 16.88160681,
+    "captured_motion_s": 3.1170308729999974,
+    "xyz_error_rms_mm": 8.529509867567524,
+    "xyz_error_p95_mm": 17.739470480586956,
+    "xyz_error_max_mm": 20.075906450750917,
+    "axis_error_max_abs_counts": [
+      205364,
+      209118,
+      208683,
+      1615
+    ],
+    "cycle_p99_ms": 1.2808081199998878,
+    "cycle_max_ms": 2.70893599999944,
+    "wake_lateness_p99_us": 18.900209999999966,
+    "wake_lateness_max_us": 1534.097,
+    "bad_wkc_cycles": 1,
+    "quick_stop_cycles": 0
+  }
+]
